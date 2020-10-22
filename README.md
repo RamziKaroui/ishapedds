@@ -7,7 +7,7 @@ Each geometrical shape is represented by a dedicated dds topic such as a *Cercle
 
 All the geometrical shapes share the same *dataType*. The dataType structure is modeled in an .idl file.
 
-The shape dataType is characterized by its color, its position in a 2D space and its Size. Shapes with different colors are considered different data objects, i,e different data instances, as the color data attribute is considered the @Key od the dataType. Each data instance has its unique identity, its own lifecycle and its data.    
+The shape dataType is characterized by its color, its position in a 2D space and its Size. Shapes with different colors are considered different data objects, i,e different data instances, as the color data attribute is considered the @Key of the dataType. Each data instance has its unique identity, its own lifecycle and its data.    
 
 Running iShapes                                                                
 ===============
